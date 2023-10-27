@@ -1,6 +1,10 @@
-# Gnerar resumen automatico de pdfs
+# Gnerar resumen automatico de pdfs - OpenaAI
 https://www.analyticsvidhya.com/blog/2023/05/create-book-summarizer-in-python-with-gpt-3-5-in-10-minutes/
 https://www.geeksforgeeks.org/prompt-engineering-for-summarization/
 https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/use-cases/document-summarization/summarization_large_documents_langchain.ipynb
 https://medium.com/@johnidouglasmarangon/how-to-summarize-text-with-openai-and-langchain-e038fc922af
+
+# Elasticsearch with python | postman
+https://www.analyticsvidhya.com/blog/2022/07/introduction-to-elasticsearch-using-python/
+https://blog.adnansiddiqi.me/getting-started-with-elasticsearch-7-in-python/
