@@ -4,3 +4,7 @@ pypdf
 tiktoken
 azure-storage-blob
 unstructured==0.7.12
+elasticsearch
+python-dotenv
+fastapi
+pip install "uvicorn[standard]"

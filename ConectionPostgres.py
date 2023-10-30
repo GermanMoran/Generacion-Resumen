@@ -1,12 +1,14 @@
+# Librerias y dependencias
+
+
 import psycopg2
-
-
 
 class conectPostgres():
     
   def __init__(self):
     self.connected=0
     self.error=""
+
   
   def ConnectDatabase(self):
         try:

@@ -8,3 +8,13 @@ https://medium.com/@johnidouglasmarangon/how-to-summarize-text-with-openai-and-l
 # Elasticsearch with python | postman
 https://www.analyticsvidhya.com/blog/2022/07/introduction-to-elasticsearch-using-python/
 https://blog.adnansiddiqi.me/getting-started-with-elasticsearch-7-in-python/
+https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380
+
+# Postman Metodos
+https://documenter.getpostman.com/view/5283544/S1LyUnSc#29e5846e-fd0c-4b52-8de1-c8e7ff766efc
+
+# fastapi
+https://kinsta.com/blog/fastapi/
+https://opster.com/guides/elasticsearch/glossary/elasticsearch-python-example/
+https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/examples.html
+https://python.plainenglish.io/beginners-guide-to-crud-with-elasticsearch-python-62ed07477a65
